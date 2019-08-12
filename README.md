@@ -1,4 +1,4 @@
-Hangman US States
+## Hangman US States
 
 This is a slightly changed version of hangman from the book Invent your own Computer Games with Python, by Al Sweigart.
 
